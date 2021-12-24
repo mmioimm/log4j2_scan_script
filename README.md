@@ -8,6 +8,7 @@
 usage:
 
 1. 基于dnslog.cn
+
    python3 lo4j-scan.py -u http://www.xxx.com
 2. 基于内网检测
    - 内网启动ldap服务：java -jar jndi.jar -i 127.0.0.1
